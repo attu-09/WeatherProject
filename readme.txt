@@ -15,6 +15,11 @@ Working:-
 Credentials for testing the api:-
     username = Raj
     password = Raj@12345
+	
+Admin credentials:-
+	username = admin
+	password = admin
+ 
 
 The endpoints for this api are:-
 
